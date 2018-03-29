@@ -13,6 +13,9 @@ self.addEventListener('install', function(e) {
           '/js/popper.min.js',
           'js/bootstrap.min.js',
           '/js/mdb.min.js',
+          '/img/lightbox/default-skin.png',
+            '/img/lightbox/default-skin.svg',
+            
         ]);
       })
     );
